@@ -15,3 +15,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 изменение текста делает файл голубым
+белый цвет значит что изменения сохранены
